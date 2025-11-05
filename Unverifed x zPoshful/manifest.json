@@ -2,10 +2,10 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
   "manifest_version": 3,
-  "name": "Unverified x zPoshful",
-  "version": "1.1.4",
-  "description": "A browser extension to intercept HTTPS request for Miniblox",
-  "author": "wytlines",
+  "name": "100 Subscribers Special",
+  "version": "1",
+  "description": "A browser extension to make Miniblox textures a lot smoother",
+  "author": "Not_Senpai",
   "background": {"service_worker": "background.js"},
   "icons": {
     "128": "icon.png"
@@ -17,6 +17,7 @@
     "https://miniblox.io/*",
     "https://miniblox.online/*",
     "https://miniblox.org/*",
+    "https://www.crazygames.com/game/miniblox*",
     "https://raw.githubusercontent.com/*"
   ]
 }
