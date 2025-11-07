@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/Dell/Downloads/ChatGPT%20Image%20Nov%207,%202025,%2007_56_31%20PM.png" alt="Miniblox Textures" width="800" />
+  <img src="[file:///C:/Users/Dell/Downloads/ChatGPT%20Image%20Nov%207,%202025,%2007_56_31%20PM.png](https://raw.githubusercontent.com/notsenpai52013-bit/skibidi-textures/refs/heads/main/100%20Subscribers%20Special/ChatGPT%20Image%20Nov%207%2C%202025%2C%2007_56_31%20PM.png)" alt="Miniblox Textures" width="800" />
 </p>
 <p align="center">
   <em><b>100 Subscribers Special</b> is a texture pack for pvp to make gameplay look much smoother</em>
