@@ -2,7 +2,7 @@
   <img src="https://cdn.glitch.global/adb12490-d563-43cb-9711-2a69a8bb1c06/Unverifed%20x%20zPoshful%2Ficon.png?v=1740444766023" alt="Miniblox Textures" width="800" />
 </p>
 <p align="center">
-  <em><b>Unverified 128x</b> is a texture pack for pvp to make gameplay look much smoother</em>
+  <em><b>100 Subscribers Special</b> is a texture pack for pvp to make gameplay look much smoother</em>
 </p>
 
 ---
@@ -23,16 +23,10 @@ Add a [GitHub Star](https://github.com/wytlines100/skibidi-textures/stargazers) 
 
 ## 💡 Credits
 
-Pack Created By: zPoshful
+Pack Created By: Not_Senpai
 
-Orginal Sprite by: Heythereu
+Orginal Sprite by:  Not_Senpai
 
-Pack Ported by: Wytlines
+Pack Ported by: Not_Senpai
 
-
-Any issues with pack? Contact me!
-
-Discord: @wytlines  *I HAVE NO ALT ACCOUNTS
-
-Discord server: https://dsc.gg/unverifiedv2
 
