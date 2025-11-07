@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.glitch.global/adb12490-d563-43cb-9711-2a69a8bb1c06/Unverifed%20x%20zPoshful%2Ficon.png?v=1740444766023" alt="Miniblox Textures" width="800" />
+  <img src="file:///C:/Users/Dell/Downloads/ChatGPT%20Image%20Nov%207,%202025,%2007_56_31%20PM.png" alt="Miniblox Textures" width="800" />
 </p>
 <p align="center">
   <em><b>100 Subscribers Special</b> is a texture pack for pvp to make gameplay look much smoother</em>
